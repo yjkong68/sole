@@ -1,6 +1,6 @@
-package com.example.ligdefensewebview.ui.main
+package com.example.financewebview.ui.main
 
-import com.example.ligdefensewebview.data.DataRepository
+import com.example.financewebview.data.DataRepository
 import junit.framework.TestCase.assertEquals
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.first

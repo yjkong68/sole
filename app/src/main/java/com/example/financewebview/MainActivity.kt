@@ -1,4 +1,4 @@
-package com.example.ligdefensewebview
+package com.example.financewebview
 
 import android.os.Bundle
 import android.webkit.WebSettings
@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
                         webView = this
                         
                         if (savedInstanceState == null) {
-                            loadUrl("https://www.ligdefenseaerospace.com/main.do")
+                            loadUrl("https://yjkong68.github.io/finance.github.io/")
                         } else {
                             restoreState(savedInstanceState)
                         }

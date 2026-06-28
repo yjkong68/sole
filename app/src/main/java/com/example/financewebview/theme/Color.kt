@@ -1,4 +1,4 @@
-package com.example.ligdefensewebview.theme
+package com.example.financewebview.theme
 
 import androidx.compose.ui.graphics.Color
 

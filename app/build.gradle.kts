@@ -5,10 +5,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ligdefensewebview"
+    namespace = "com.example.financewebview"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.example.ligdefensewebview"
+        applicationId = "com.example.financewebview"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

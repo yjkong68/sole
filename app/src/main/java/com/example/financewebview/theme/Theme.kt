@@ -1,4 +1,4 @@
-package com.example.ligdefensewebview.theme
+package com.example.financewebview.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -30,7 +30,7 @@ private val LightColorScheme =
   )
 
 @Composable
-fun LIGDefenseWebviewTheme(
+fun FinanceWebviewTheme(
   darkTheme: Boolean = isSystemInDarkTheme(),
   // Dynamic color is available on Android 12+
   dynamicColor: Boolean = true,
